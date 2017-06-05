@@ -1,6 +1,5 @@
-My Website full of my passions and Skills
+My Website is all about Dragon Ball Super
 This website shows:
-- My Skills
-- My hobbies
-- What I like
+- Main Characters
+- Powerups
 
